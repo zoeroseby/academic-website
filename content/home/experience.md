@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,24 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: 'Postdoctoral researcher'
+    company: 'Trinity College Dublin'
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: 'Dublin, Ireland'
+    date_start: '2020-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 'Postdoctoral researcher in sea level change'
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: 'PhD'
+    company: 'University of Southampton'
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: 'Southampton, UK'
+    date_start: '2015-09-01'
+    date_end: '2020-03-01'
+    description: 'Thesis title: Deglacial and palaeoenvironmental history of Anvers-Hugo Trough, western Antarctic Peninsula
+'
 ---
